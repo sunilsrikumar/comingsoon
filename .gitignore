@@ -1,5 +1,5 @@
 /static
-db.sqlite
+db.sqlite3
 .pyc
 .DS_STORE
 .Python
