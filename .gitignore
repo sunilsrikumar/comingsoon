@@ -1,0 +1,6 @@
+/static
+db.sqlite
+.pyc
+.DS_STORE
+.Python
+*.py[cod]
